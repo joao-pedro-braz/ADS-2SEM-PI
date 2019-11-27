@@ -1,0 +1,85 @@
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe.config
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.Bot.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.Bot.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.Windows_Form.BiblioSearch.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\ConsoleApplication.csproj.GenerateResource.cache
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.Windows_Form.Load.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\BiblioSearch.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\Telegram.Windows_Form.BiblioSearch.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\Telegram.Windows_Form.Load.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\ConsoleApplication.csproj.GenerateResource.cache
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\BiblioSearch.exe.config
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\BiblioSearch.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\BiblioSearch.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\Telegram.Bot.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\Telegram.Bot.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\BiblioSearch.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\obj\Debug\BiblioSearch.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\MaterialSkin.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\BiblioSearch\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\BiblioSearch.exe.config
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\BiblioSearch.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\BiblioSearch.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\MaterialSkin.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\BiblioSearch.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.csproj.GenerateResource.cache
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\BiblioSearch.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\BiblioSearch.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.Windows_Form.BiblioSearch.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.Windows_Form.Load.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\BiblioSearch.exe.config
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\BiblioSearch.exe
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\BiblioSearch.pdb
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\MaterialSkin.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.xml
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.xml
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.csprojAssemblyReference.cache
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\BiblioSearch.Properties.Resources.resources
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.Windows_Form.BiblioSearch.resources
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.Windows_Form.Load.resources
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.csproj.GenerateResource.cache
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\ConsoleApplication.csproj.CopyComplete
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\BiblioSearch.exe
+C:\Users\ferna\OneDrive\VisualStudio\source\repos\PI_2_Semestre - Final\BiblioSearch\obj\Debug\BiblioSearch.pdb

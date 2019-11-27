@@ -1,0 +1,11 @@
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe.config
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.pdb
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.Bot.dll
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\bin\Debug\Telegram.Bot.xml
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.csprojAssemblyReference.cache
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.csproj.CopyComplete
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.exe
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\Telegram\Telegram\obj\Debug\Telegram.pdb
