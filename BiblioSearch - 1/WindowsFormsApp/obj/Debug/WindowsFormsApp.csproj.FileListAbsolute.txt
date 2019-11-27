@@ -1,0 +1,3 @@
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\Fernando\OneDrive\VisualStudio\source\repos\PI_2_Semestre\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
