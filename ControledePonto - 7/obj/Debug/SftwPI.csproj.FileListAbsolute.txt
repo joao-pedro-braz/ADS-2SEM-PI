@@ -1,0 +1,11 @@
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\bin\Debug\SftwPI.exe.config
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\bin\Debug\SftwPI.exe
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\bin\Debug\SftwPI.pdb
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.csprojAssemblyReference.cache
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.Properties.Resources.resources
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.csproj.GenerateResource.cache
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.csproj.CoreCompileInputs.cache
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.exe
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.pdb
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.FrmCarreagemento.resources
+C:\Users\1050481913023\source\repos\SftwPI\SftwPI\obj\Debug\SftwPI.FrmPrincipal.resources
