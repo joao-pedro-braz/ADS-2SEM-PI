@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Tokenkong Shop.exe" version="1.0.0.11" publicKeyToken="9a6479a042a97f88" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="favicon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tokenkong Shop" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Tokenkong Shop.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opções de Manifesto do UAC
+          Para alterar o nível de Controle de Conta de Usuário do Windows, substitua o nó
+          requestedExecutionLevel por um dos seguintes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Para utilizar a Virtualização de Arquivos e Registro para manter a compatibilidade com versões anteriores,
+         exclua o nó requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BouncyCastle.Crypto.dll" size="2453504">
+      <assemblyIdentity name="BouncyCastle.Crypto" version="1.8.3.0" publicKeyToken="0E99375E54769942" language="neutral" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SikSNsUBe/37MPrUw9tNBhTDYsS1NAnGELEtSD17JuY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Google.Protobuf.dll" size="298496">
+      <assemblyIdentity name="Google.Protobuf" version="3.6.1.0" publicKeyToken="A7D26565BAC4D604" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>tmCHIa/sZfxfbRML4V98ONw3aJn73tQolsd5EaiejRM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MySql.Data.dll" size="766464">
+      <assemblyIdentity name="MySql.Data" version="8.0.17.0" publicKeyToken="C5687FC88969C44D" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SmJOuO/8VU76YyJYVBywRnRy+3aX+dka7aastpwKRek=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Renci.SshNet.dll" size="422912">
+      <assemblyIdentity name="Renci.SshNet" version="2016.1.0.0" publicKeyToken="1CEE9F8BDE3DB106" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9jFe0UZDj3cCAzaBBD+P6WkO05oqvJoZIkZCSUSjono=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tokenkong Shop.exe" size="555488">
+      <assemblyIdentity name="Tokenkong Shop" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Jyx5c2PfPpoPO6/sNkH4b3WNXyHNQHYcjEY+3HO5Mnk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="assets\images\products\golden_cookie_f_420g.png" size="42063">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>p+mx2mGCbQKSKxF3YZdTofP2gK5CbuMk4ei+EOA9W2I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="assets\images\products\racao_premier_a_md_12kg_frango_batata_doce.png" size="822054">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>PrW7dxQSOR9XrHzJ2frs6EndcvQcOqmV0FsncahmQ/Y=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="assets\images\products\racao_premier_a_md_12kg_frango_chia_quinoa.png" size="942852">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Fzcf0iPOGXJtsnfrI1xP0cR6PJfCIW9hw46BO2eyNAs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="assets\images\products\racao_premier_a_sm_10kg100g_frango_chia_quinoa.png" size="831050">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rw932nXFArljQ0yEFhNV9iQny9wtRwLp+HiYqeIhs04=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="assets\images\products\shampoo_beeps_caes_f_500ml.png" size="48701">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>AI3SodxJ7Hv9KRiWn7lYjpCXuMEDHdr32D3NSWkxilc=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="assets\images\products\shampoo_beeps_gatos_500ml.png" size="51832">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Mz7RTV79ECfTsrXk67jNSCqNBCTwDihoNw2/zpAkGOk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="favicon.ico" size="32038">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>6M7bNhvmDIEuIv83V3g3vmIOl6rTvrupMIRJLAEthvY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Properties\Resources.Designer.cs" size="3017">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>hscX3X5EifIVmD9bHjW7fKr6j1ZXx9CiIyzdp6pTLWY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Properties\Resources.resx" size="5817">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>Q2PNfVuGccckQs4aG/wQ1k69JLLXGLVL1PzQJeSWcpg=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Properties\Settings.settings" size="637">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>26SUyJWZZbXJW2GXdnhKQcYxFbWB4V/J19758S+abS8=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Tokenkong Shop.exe.config" size="1129">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>U6AJM1VnW2zqgTBgXD7okLczSi2PDhZE00O7WVEgiE8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-GORTHE01\lucas" issuerKeyHash="62b2eeac70a39e73cb1fce768fc88596a163101a" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>5GrrYIlTCdk66jN0waryUwciEDY77KMvXQG3ryp/uJQ=</DigestValue></Reference></SignedInfo><SignatureValue>Hvh2Xhx2B7ABzAcIs6/mspP6wcThvc6pc4VXcSotj2C1JETL/V9sxBzI47Ypj/QNInFJ77LyIv3jdHTXb4cakPxxKCWwhXY3FJRQ18ATdTsIhM3v6pXffQRGXZji+sqqC1uhJP0NY06Ii3I2OZ/kR7FlbP7dZIPkoh9Cs/++8KY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>ncdWij1jwusDT1398XJ9NUFfqlDbYt5Dxn5m+6c/1o6wiVlhfnqrfuJyVc/IXppA/AMZt3JWJPm1HD6mNuvRr3mx2yKWOLQ+KarCqSjoL/p8gCAlHL3m86+c97HWQgOfAPJ9fjBQkOMzASMxSTUU0Z9D16+UIrkI+H6hZONM8p0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="94b87f2aafb7015d2fa3ec3b3610220753f2aac17433ea3ad909538960eb6ae4" Description="" Url=""><as:assemblyIdentity name="Tokenkong Shop.exe" version="1.0.0.11" publicKeyToken="9a6479a042a97f88" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-GORTHE01\lucas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Vx5OrPEVOPUVepeNzOxyMBfgKkbKTU+3pgYbZprPiaM=</DigestValue></Reference></SignedInfo><SignatureValue>ZybpI9uLoGW8MNsevm824jkDZbcYi4QmPbpQ3Abhpbhw9KkQQpjMuv+CJXHb+QsdSIpWI7P2GGO8A9pAaLehQMsym/iD5oAGiboRzNdfYujVUcFZqAJyxTtjDbS0Iwxg/aCAMeJ5VyTH6fGpt++IZc4W7h7lsWgX2Cm6S50Zjc0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>ncdWij1jwusDT1398XJ9NUFfqlDbYt5Dxn5m+6c/1o6wiVlhfnqrfuJyVc/IXppA/AMZt3JWJPm1HD6mNuvRr3mx2yKWOLQ+KarCqSjoL/p8gCAlHL3m86+c97HWQgOfAPJ9fjBQkOMzASMxSTUU0Z9D16+UIrkI+H6hZONM8p0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQRdx19Fjf3qJO9R4irrAV7TANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBHAE8AUgBUAEgARQAwADEAXABsAHUAYwBhAHMwHhcNMTkxMjAxMjMwNTUxWhcNMjAxMjAxMDUwNTUxWjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBHAE8AUgBUAEgARQAwADEAXABsAHUAYwBhAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAJ3HVoo9Y8LrA09d/fFyfTVBX6pQ22LeQ8Z+ZvunP9aOsIlZYX56q37iclXPyF6aQPwDGbdyViT5tRw+pjbr0a95sdsilji0Pimqwqko6C/6fIAgJRy95vOvnPex1kIDnwDyfX4wUJDjMwEjMUk1FNGfQ9evlCK5CPh+oWTjTPKdAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAkcDurcBFmDqo4KI7Ou0WJ+Voc3K3N54k0rq5uVCTIqAnWK1gxSmSMtogiQRL0x9JL8l8BZI62iopazVo3/mtaXEQO2np24h39UjG0dv3sgL33hxv26mC1sMJBSlBSBQozGM0cWsLadvBjykFpFX7NB0VUPBK38ff5YcFXOGwMYc=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

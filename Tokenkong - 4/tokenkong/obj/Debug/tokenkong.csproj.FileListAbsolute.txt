@@ -1,0 +1,55 @@
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.csprojAssemblyReference.cache
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.csproj.GenerateResource.cache
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.csproj.CoreCompileInputs.cache
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\MySql.Data.dll
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Google.Protobuf.dll
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Renci.SshNet.dll
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\BouncyCastle.Crypto.dll
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.csproj.CopyComplete
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.Login.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.Reports.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\tokenkong.exe.config
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\tokenkong.exe
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\tokenkong.pdb
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\MySql.Data.dll
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\Google.Protobuf.dll
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\Renci.SshNet.dll
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.csprojAssemblyReference.cache
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.Activity.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.Form1.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.forms.FormActivity.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.Login.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.forms.Reports.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.Properties.Resources.resources
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.csproj.GenerateResource.cache
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.csproj.CopyComplete
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.exe
+C:\Users\joaov\Documents\Fatec\PI\tokenkong\tokenkong\obj\Debug\tokenkong.pdb
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.ProductForm.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.ClientForm.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.Principal.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.ClientList.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.SaleList.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.ProductList.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.SaleForm.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\tokenkong.forms.home.Home.resources
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Tokenkong Shop.exe.config
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Tokenkong Shop.exe.manifest
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Tokenkong Shop.application
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Tokenkong Shop.exe
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Tokenkong Shop.pdb
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\Tokenkong Shop.exe.manifest
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\Tokenkong Shop.application
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\Tokenkong Shop.exe
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\obj\Debug\Tokenkong Shop.pdb
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Properties\Settings.settings
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Properties\Settings.Designer.cs
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Properties\Resources.resx
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\Properties\Resources.Designer.cs
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\assets\images\products\golden_cookie_f_420g.png
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\assets\images\products\racao_premier_a_md_12kg_frango_batata_doce.png
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\assets\images\products\racao_premier_a_md_12kg_frango_chia_quinoa.png
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\assets\images\products\racao_premier_a_sm_10kg100g_frango_chia_quinoa.png
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\assets\images\products\shampoo_beeps_caes_f_500ml.png
+C:\Directories\places\Fatec\P.I\desktop_program\tokenkong\tokenkong\bin\Debug\assets\images\products\shampoo_beeps_gatos_500ml.png
