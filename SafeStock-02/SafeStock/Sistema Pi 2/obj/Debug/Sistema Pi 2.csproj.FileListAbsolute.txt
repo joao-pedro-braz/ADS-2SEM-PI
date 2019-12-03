@@ -1,0 +1,153 @@
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe.config
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.pdb
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csprojAssemblyReference.cache
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Adm.resources
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Properties.Resources.resources
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.GenerateResource.cache
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.exe
+C:\Users\1050481913026\source\repos\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.pdb
+J:\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe.config
+J:\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe
+J:\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.pdb
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csprojAssemblyReference.cache
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Adm.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Properties.Resources.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.GenerateResource.cache
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.exe
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.pdb
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Localização.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório_Específico.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Grupo_Usuário.resources
+D:\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe.config
+D:\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe
+D:\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.pdb
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csprojAssemblyReference.cache
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Localização.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Form6.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Estoque.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Fornecedores.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Fornecedores.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Adm.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Grupo_Usuário.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Usuário.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Principal.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Cadastro.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Properties.Resources.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório_Específico.resources
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.GenerateResource.cache
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.exe
+D:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.pdb
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Estoque.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Fornecedores.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Fornecedores.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Usuário.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Principal.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Cadastro.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Estoque.resources
+J:\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Login.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe.config
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.pdb
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csprojAssemblyReference.cache
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Login.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Localização.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Estoque.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Estoque.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Fornecedores.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Fornecedores.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Adm.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Grupo_Usuário.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Usuário.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Principal.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Cadastro.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Properties.Resources.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório_Específico.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.GenerateResource.cache
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.exe
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.pdb
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\MySql.Data.dll
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\Google.Protobuf.dll
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\Renci.SshNet.dll
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\bin\Debug\MySql.Data.xml
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.CopyComplete
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Material.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Consulta_Material.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Alterar_Cadastro.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Consulta_Fornecedor.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Alterar_Fornecedor.resources
+C:\Users\dougl\Desktop\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Form_Cad_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe.config
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\Sistema Pi 2.pdb
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\MySql.Data.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\Google.Protobuf.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\Renci.SshNet.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\bin\Debug\MySql.Data.xml
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csprojAssemblyReference.cache
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Material.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Consulta_Material.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Alterar_Cadastro.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Alterar_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Form_Cad_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Login.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Localização.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Estoque.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Estoque.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Fornecedores.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Fornecedores.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Adm.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Grupo_Usuário.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Usuário.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Principal.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Cadastro.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Properties.Resources.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.GenerateResource.cache
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.CopyComplete
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.exe
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema Pi 2.pdb
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Form_Cons_Fornec.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastrar_Req.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Relatorio_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Relatorio_Estoque.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe.config
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\Sistema Pi 2.exe
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\Sistema Pi 2.pdb
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\MySql.Data.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\Google.Protobuf.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\Renci.SshNet.dll
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\bin\Debug\MySql.Data.xml
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema Pi 2.csprojAssemblyReference.cache
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Material.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Consulta_Material.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Alterar_Cadastro.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Form_Cons_Fornec.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Alterar_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastrar_Req.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Relatorio_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Relatorio_Estoque.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Form_Cad_Fornecedor.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Login.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Localização.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Estoque.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Estoque.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.CC_Fornecedores.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Cadastro_Fornecedores.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Adm.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Grupo_Usuário.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Adm_Usuário.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Menu_Principal.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Cadastro.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Properties.Resources.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema_Pi_2.Seleção_Relatório.resources
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.GenerateResource.cache
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema Pi 2.csproj.CopyComplete
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema Pi 2.exe
+C:\Users\dougl\Desktop\PROJETO PI\Sistema Pi 2 - Backup - Copia\Sistema Pi 2\obj\Debug\Sistema Pi 2.pdb
